@@ -1,3 +1,6 @@
 '''
 Mi programa
 '''
+
+major_version = 0
+minor_version = 1
